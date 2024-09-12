@@ -4,8 +4,9 @@ title: "Talia Fabregas"
 
 Hi, I'm Talia. I'm a senior at the University of Toronto, majoring in statistics and minoring in computer science & political science. I have 4.5 month old red toy/mini poodle Sophie!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I've also got a very interesting mathematical fact that I would like to share with you today!
 
 ```{r}
-1 + 1
+1 + 1 = 2
+9 + 10 = 21
 ```
